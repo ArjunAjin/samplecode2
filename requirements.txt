@@ -1,0 +1,3 @@
+steamlist
+numpy
+scikit-learn
